@@ -1,4 +1,6 @@
 Rafiki-Child
 ============
 
-Rafiki Chuld theme of Infinity
+Rafiki Child theme of Infinity.
+
+This is just a test for now.
